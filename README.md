@@ -33,9 +33,9 @@ I care about shipping things that work in production, not just in a notebook.
 
 | Project | Description |
 | :--- | :--- |
-| 💰 **[Financial PDF RAG System](https://github.com/Tanishh2203/Financial_PDF_RAG_System)** | Retrieval-augmented Q&A over financial reports — handles tabular data, multi-document context, and source-grounded citations. |
-| ⚡ **Zenitsu — Personal AI Agent** | Voice-driven personal assistant via WhatsApp & Telegram using Claude API + MCP. Integrates Google Calendar, daily email/calendar briefing pipeline, and Whisper-based intent routing across calendar, email, search, and reminders. |
 | 🍲 **Rasoi — Voice-First Food Ordering Agent** | Built on Swiggy's MCP Builders Club platform. Telegram interface, Whisper STT, Hinglish TTS, supervisor classifier routing between Food/Instamart, background order tracking. |
+| ⚡ **Zenitsu — Personal AI Agent** | Voice-driven personal assistant via WhatsApp & Telegram using Claude API + MCP. Integrates Google Calendar, daily email/calendar briefing pipeline, and Whisper-based intent routing across calendar, email, search, and reminders. |
+
 
 > More repos at **[github.com/Tanishh2203?tab=repositories](https://github.com/Tanishh2203?tab=repositories)**
 
