@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Tanish 👋
 
-<!--
-**Tanishh2203/Tanishh2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
 
-Here are some ideas to get you started:
+I build **agentic AI systems**, **RAG pipelines**, and **multimodal ML services** that ship to real users. Currently AI/ML Engineer at **Wellwiz Innovation**, working on multi-agent diagnosis, biometric signal processing, and retrieval systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Currently building voice-first agents on Anthropic's MCP and LangGraph supervisors over specialist agents
+- 🔬 Deep in multimodal: face morphology, voice acoustics, rPPG vitals, fingerprint biometrics
+- 📡 Production stack: Python, FastAPI, gRPC, LangChain/LangGraph, MongoDB, Redis, Pinecone, S3
+- 🎓 B.Tech in Electronics & Computer Engineering from VIT Chennai (2025)
+- 📍 Based in Noida, India — open to AI/ML and Applied AI Engineer roles
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| 🍲 **[Rasoi — Voice-First Swiggy Agent](https://github.com/Tanishh2203/Rasoii)** | Voice-first food ordering agent on Swiggy's MCP platform. Telegram bot interface, Whisper STT, Hinglish TTS, supervisor classifier routing between Food and Instamart, background order tracking. |
+| 🏥 **[Clarity Claims — Health Insurance Pipeline](https://github.com/Tanishh2203/clarity-claims)** | End-to-end health insurance claims processing system. Four-stage pipeline with deterministic rules engine, LLM-based extraction, Streamlit UI. All 12 acceptance test cases passing. |
+| 🧪 **[AI Assistant Eval](https://github.com/Tanishh2203/ai-assistant-eval)** | LLM evaluation harness for chat assistants — judges, rubrics, and reproducible scoring runs over benchmark conversation sets. |
+| 📚 **[RagLab](https://github.com/Tanishh2203/RagLab)** | RAG experimentation lab. Hybrid retrieval (BM25 + dense), cross-encoder reranking, chunking strategy comparisons, RAGAS evaluation. |
+| 💰 **[Financial PDF RAG System](https://github.com/Tanishh2203/Financial_PDF_RAG_System)** | Retrieval-augmented Q&A over financial reports. Handles tabular data, multi-document context, and source-grounded citations. |
+| ⚡ **[Zenitsu — Personal AI Agent](https://github.com/Tanishh2203/ZenitsuBot)** | Personal assistant agent integrating WhatsApp, Telegram, Claude API, MCP servers, Google Calendar, Gmail, and Whisper transcription. |
+
+---
+
+## 🧰 Tech I work with
+
+**LLM / Agents** &nbsp;·&nbsp; LangChain · LangGraph · MCP · OpenAI · Anthropic · Whisper · vLLM · QLoRA
+**Retrieval** &nbsp;·&nbsp; Pinecone · FAISS · BM25 · Cross-encoder rerankers · RAGAS
+**ML / CV / Audio** &nbsp;·&nbsp; PyTorch · OpenCV · MediaPipe · InsightFace · librosa · Parselmouth
+**Backend** &nbsp;·&nbsp; Python · FastAPI · gRPC · MongoDB · Redis · S3 · Docker
+**Frontend / UI** &nbsp;·&nbsp; Streamlit · Next.js (basic)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanishh2203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishh2203&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+> _"Production beats prototype. Always."_ — currently focused on closing that gap.
