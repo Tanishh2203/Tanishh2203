@@ -28,12 +28,14 @@ I build **agentic AI systems**, **RAG pipelines**, and **multimodal ML services*
 ---
 
 ## 🧰 Tech I work with
-
-**LLM / Agents** &nbsp;·&nbsp; LangChain · LangGraph · MCP · OpenAI · Anthropic · Whisper · vLLM · QLoRA
-**Retrieval** &nbsp;·&nbsp; Pinecone · FAISS · BM25 · Cross-encoder rerankers · RAGAS
-**ML / CV / Audio** &nbsp;·&nbsp; PyTorch · OpenCV · MediaPipe · InsightFace · librosa · Parselmouth
-**Backend** &nbsp;·&nbsp; Python · FastAPI · gRPC · MongoDB · Redis · S3 · Docker
-**Frontend / UI** &nbsp;·&nbsp; Streamlit · Next.js (basic)
+ 
+**LLM / Agentic AI** &nbsp;·&nbsp; LangChain · LangGraph · MCP (Model Context Protocol) · OpenAI API · Claude API · Multi-Agent Orchestration · Prompt Engineering · Whisper (ASR) · SLMs
+**RAG / Retrieval** &nbsp;·&nbsp; Pinecone · FAISS · BM25 (hybrid retrieval) · HNSW indexing · Cross-encoder rerankers · RAGAS
+**ML / DL / NLP** &nbsp;·&nbsp; PyTorch · TensorFlow · Keras · Scikit-learn · HuggingFace Transformers · BERT · Fine-tuning
+**Computer Vision & Biometrics** &nbsp;·&nbsp; OpenCV · MediaPipe · Pose Estimation · YOLO · InsightFace (ArcFace)
+**Signal Processing / Audio** &nbsp;·&nbsp; librosa · Parselmouth · rPPG · 44+ engineered physiological features
+**Data** &nbsp;·&nbsp; SQL (SQLite) · PySpark · NumPy · Pandas · Matplotlib · Seaborn · SciPy
+**MLOps / Backend** &nbsp;·&nbsp; Docker · Git · AWS · REST APIs · gRPC · MongoDB · Redis
 
 ---
 
