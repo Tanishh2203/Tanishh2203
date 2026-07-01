@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Tanish Khandelwal</h1>
+<h1 align="center">Hi there 👾, I'm Tanish Khandelwal</h1>
 
 <h3 align="center">AI/ML Engineer • Agentic AI Systems • RAG Pipelines • Multimodal ML</h3>
 
@@ -8,17 +8,16 @@ Designing production-ready AI/ML systems across computer vision, NLP, signal pro
 
 ---
 
-## 💫 About Me
+##  About Me
 
-I'm an **AI/ML Engineer** at Wellwiz Innovation, building production-ready ML/DL systems across computer vision, NLP, and signal processing. My work spans the full lifecycle — data preparation, model development, fine-tuning, and deployment — with deep hands-on experience in **multi-agent orchestration (LangGraph)**, **RAG pipelines**, and **multimodal biometric systems** (face, voice, fingerprint, rPPG).
+I'm an **AI/ML Engineer** at Wellwiz Innovation, building production-ready ML/DL systems across computer vision, NLP, and signal processing. My work spans the full lifecycle — data preparation, model development, fine-tuning, and deployment — with deep hands-on experience in **multi-agent orchestration (LangGraph)**, **RAG pipelines**, **MCPs**, **multimodal biometric systems** , **LLMS** etc etc .
 
 I care about shipping things that work in production, not just in a notebook.
 
 - 👨‍💻 All my projects: **[github.com/Tanishh2203](https://github.com/Tanishh2203)**
 - 💼 LinkedIn: **[tanishkhandelwal22](https://www.linkedin.com/in/tanishkhandelwal22/)**
 - 📫 Reach me: **[tkhandelwal399@gmail.com](mailto:tkhandelwal399@gmail.com)**
-- 💬 Ask me about: **Agentic AI, RAG, multimodal biometric ML**
-- 🌱 Currently exploring: **video-language model fine-tuning (QLoRA)**
+- 💬 Ask me about: **Agentic AI, RAG, MCP, VectorDBs, Langchain, LangGraph, Transformers, LLMs ,ML, DL, NLP**
 
 ---
 
